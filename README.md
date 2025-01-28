@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @nenusudharshan
+- 👋 Hi, nenu_sudharshan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🥅 love to become AI/ML engineer 
+- 🌱 python, numpy, pandas, matplotlib etc.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sudharshanreddyr918@gmail.com
-- 😄 Pronouns: 
+- 
 - ⚡ Fun fact: the term 'computer bug' was inspired by a real insect.
 
 <!---
