@@ -1,7 +1,8 @@
 - 👋 Hi, nenu_sudharshan
 - 👀 I’m interested in coding
 - 🥅 love to become AI/ML engineer 
-- 🌱 python, numpy, pandas, matplotlib etc.
+- 🌱 python, numpy, pandas, matplotlib,visualization.
+- ESTIMATED DATA ANALYSIS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sudharshanreddyr918@gmail.com
 - 
