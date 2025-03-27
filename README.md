@@ -47,17 +47,13 @@
 - **LEARN-EDA Repository** → My daily EDA learning & practice files  
   *(Summary Statistics, Missing Values, Outliers, Encoding, Feature Scaling, Visualization, and more)*
 
-- Planning to start **Mini Python Projects**  
-  → Library Management System (OOP-Based)  
-  → Basic Machine Learning Models
-
+- Planning to start **ml Projects**  
 ---
 
 ## 🎯 My Goals for 2025
 
 - ✅ Become strong in **Python & EDA**
 - ✅ Complete **Machine Learning** (From Basics to Model Deployment)
-- ✅ Start **Web Development**
 - ✅ Build & deploy real-world **AI-powered web applications**
 - ✅ Create strong project portfolio
 
