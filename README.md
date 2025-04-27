@@ -45,15 +45,23 @@
 
 ## 📌 Current Projects
 
-- **LEARN-EDA Repository** → My complete learning journey in Exploratory Data Analysis (EDA)  
+- **LEARN-EDA Repository** → ✅ Completed  
+  A complete journey of learning Exploratory Data Analysis (EDA)  
   *(Summary Statistics, Missing Values, Outliers, Encoding, Feature Scaling, Data Visualization, and more)*
 
-- **ML-Projects Repository (Coming Soon!)** →  
-  Working on **End-to-End Machine Learning Projects** including:  
-  → Data Preprocessing Pipelines  
-  → Building Predictive Models  
-  → Evaluating and Tuning Models  
-  → Model Deployment ideas (basic)
+- **ML Repository** → 🚀 In Progress  
+  Learning and practicing Machine Learning algorithms.  
+  Currently working on:  
+  - Simple Linear Regression (LR)  
+  - Multiple Linear Regression (MLR)  
+  - Polynomial Regression (PR)  
+  - Complete End-to-End Linear Regression Model  
+  (Next: More supervised learning algorithms coming soon!)
+
+---
+## Currently working on:
+- Machine Learning Algorithms (Regression Models, next Classification Models)
+- Building hands-on ML Projects
 
 ---
 
