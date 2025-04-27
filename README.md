@@ -16,8 +16,9 @@
   - IBM - **Artificial Intelligence Fundamentals**
   - IBM - **Problem Solving and Process Controls**
 - 📌 Currently working on:  
-  → **Machine Learning Algorithms**  
-  → **Building ML Models and Projects**  
+- Machine Learning Algorithms (Regression Models, next Classification Models)
+- Building hands-on ML Projects
+ 
 
 ---
 
@@ -58,10 +59,7 @@
   - Complete End-to-End Linear Regression Model  
   (Next: More supervised learning algorithms coming soon!)
 
----
-## Currently working on:
-- Machine Learning Algorithms (Regression Models, next Classification Models)
-- Building hands-on ML Projects
+ 
 
 ---
 
